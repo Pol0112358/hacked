@@ -1,3 +1,8 @@
 this is for the hacked hachathon moment slay on bestie
+slay on bestie
+<<<<<<< HEAD
 changing this to commit
 hiiii
+=======
+slay on changing this to commit
+>>>>>>> 1378a51a262a1e92a442221e57f123c5761b9700
